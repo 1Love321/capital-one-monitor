@@ -3386,34 +3386,6 @@
   },
   "previous": [
     {
-      "id": "7505878",
-      "name": "Vinous Icons Miami - All Access Day Two",
-      "date": "Nov 14 • 10:00am",
-      "location": "Jungle Island • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7505878"
-    },
-    {
-      "id": "7661905",
-      "name": "Houston (TX): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 14 • 1:00pm",
-      "location": "Barcelona Wine Bar - Montrose • Houston, TX",
-      "url": "https://entertainment.capitalone.com/events/7661905"
-    },
-    {
-      "id": "7505880",
-      "name": "Vinous Icons Miami - Day Two Walkaround Tasting",
-      "date": "Nov 14 • 4:00pm",
-      "location": "Jungle Island • Miami, FL",
-      "url": "https://entertainment.capitalone.com/events/7505880"
-    },
-    {
-      "id": "7719555",
-      "name": "SNL Live Show",
-      "date": "Nov 14 • 11:00pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719555"
-    },
-    {
       "id": "7661055",
       "name": "RiNo (Denver) - 12PM: Spain UNCORKED at Barcelona Wine Bar",
       "date": "Nov 15 • 12:00pm",
@@ -4607,7 +4579,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-14T23:47:45.775Z",
+  "lastSuccess": "2026-11-15T00:07:41.781Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

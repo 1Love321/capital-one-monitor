@@ -128,6 +128,13 @@
       "location": "Pauley Pavilion - UCLA • Los Angeles, CA",
       "url": "https://entertainment.capitalone.com/events/7026496"
     },
+    "7079414": {
+      "id": "7079414",
+      "name": "Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
+      "date": "Nov 20 • 8:00pm",
+      "location": "Lucas Oil Stadium • Indianapolis, IN",
+      "url": "https://entertainment.capitalone.com/events/7079414"
+    },
     "7082329": {
       "id": "7082329",
       "name": "Eater - A Welcome Home Party for Alfie's",
@@ -3442,6 +3449,13 @@
       "url": "https://entertainment.capitalone.com/events/7792622"
     },
     {
+      "id": "7079414",
+      "name": "Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
+      "date": "Nov 20 • 8:00pm",
+      "location": "Lucas Oil Stadium • Indianapolis, IN",
+      "url": "https://entertainment.capitalone.com/events/7079414"
+    },
+    {
       "id": "7826952",
       "name": "Magic vs. Wizards - Cardholder Suite",
       "date": "Nov 22 • 7:00pm",
@@ -4450,10 +4464,22 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7079414",
+      "title": "New Capital One Exclusive: Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
+      "event": {
+        "id": "7079414",
+        "name": "Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
+        "date": "Nov 20 • 8:00pm",
+        "location": "Lucas Oil Stadium • Indianapolis, IN",
+        "url": "https://entertainment.capitalone.com/events/7079414"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-17T21:07:44.278Z",
+  "lastSuccess": "2026-11-17T21:27:40.204Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

@@ -4450,19 +4450,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7857678",
-      "title": "New Capital One Exclusive: Discover B1G Football Championship Game Tickets (Cardholder Exclusives)",
-      "event": {
-        "id": "7857678",
-        "name": "Discover B1G Football Championship Game Tickets (Cardholder Exclusives)",
-        "date": "Dec 5 • 8:00pm",
-        "location": "Lucas Oil Stadium • Indianapolis, IN",
-        "url": "https://entertainment.capitalone.com/events/7857678"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-17T20:47:54.768Z",

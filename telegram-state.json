@@ -1250,6 +1250,13 @@
     },
     "414": {
       "done": true
+    },
+    "415": {
+      "parts": [
+        "New Capital One Exclusive: Discover B1G Football Championship Game Tickets (Cardholder Exclusives)\n\nDiscover B1G Football Championship Game Tickets (Cardholder Exclusives)\n\nDate: Dec 5 • 8:00pm\n\nLocation: Lucas Oil Stadium • Indianapolis, IN\n\nEvent details\nhttps://entertainment.capitalone.com/events/7857678\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/415"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }

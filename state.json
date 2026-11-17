@@ -3386,90 +3386,6 @@
   },
   "previous": [
     {
-      "id": "7082398",
-      "name": "TPC Scottsdale Golf Academy with Billy Horschel and Cameron Young",
-      "date": "Nov 16 • 8:00am",
-      "location": "TPC of Scottsdale • Scottsdale, AZ",
-      "url": "https://entertainment.capitalone.com/events/7082398"
-    },
-    {
-      "id": "7719531",
-      "name": "Tonight Show with Jimmy Fallon",
-      "date": "Nov 16 • 5:00pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719531"
-    },
-    {
-      "id": "7661059",
-      "name": "Boston: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 5:00pm",
-      "location": "Barcelona Wine Bar - South End • Boston, MA",
-      "url": "https://entertainment.capitalone.com/events/7661059"
-    },
-    {
-      "id": "7661011",
-      "name": "Dallas - Knox (TX) - 5PM: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 5:00pm",
-      "location": "Barcelona Wine Bar - Knox • Dallas, TX",
-      "url": "https://entertainment.capitalone.com/events/7661011"
-    },
-    {
-      "id": "7660963",
-      "name": "Washington D.C. (14th St): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 5:00pm",
-      "location": "Barcelona Wine Bar - 14th Street • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7660963"
-    },
-    {
-      "id": "7699722",
-      "name": "Charlotte (NC): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 6:00pm",
-      "location": "Barcelona Wine Bar - Charlotte • Charlotte, NC",
-      "url": "https://entertainment.capitalone.com/events/7699722"
-    },
-    {
-      "id": "7661047",
-      "name": "Pittsburgh: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 6:00pm",
-      "location": "Barcelona Wine Bar - Pittsburgh • Pittsburgh, PA",
-      "url": "https://entertainment.capitalone.com/events/7661047"
-    },
-    {
-      "id": "7661039",
-      "name": "Philadelphia 6PM: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 6:00pm",
-      "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
-      "url": "https://entertainment.capitalone.com/events/7661039"
-    },
-    {
-      "id": "7661035",
-      "name": "North Loop (MN): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 6:00pm",
-      "location": "Barcelona Wine Bar - North Loop • Minneapolis, MN",
-      "url": "https://entertainment.capitalone.com/events/7661035"
-    },
-    {
-      "id": "7660989",
-      "name": "Cathedral Heights (D.C.): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 6:00pm",
-      "location": "Barcelona Wine Bar - Cathedral Heights • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7660989"
-    },
-    {
-      "id": "7661013",
-      "name": "Dallas - Knox (TX) - 7PM: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 7:00pm",
-      "location": "Barcelona Wine Bar - Knox • Dallas, TX",
-      "url": "https://entertainment.capitalone.com/events/7661013"
-    },
-    {
-      "id": "7661041",
-      "name": "Philadelphia 8PM: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 16 • 8:00pm",
-      "location": "Barcelona Wine Bar - Passyunk • Philadelphia, PA",
-      "url": "https://entertainment.capitalone.com/events/7661041"
-    },
-    {
       "id": "7661075",
       "name": "Reston: Spain UNCORKED at Corsica",
       "date": "Nov 17 • 6:00pm",
@@ -4530,7 +4446,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-16T23:47:43.634Z",
+  "lastSuccess": "2026-11-17T00:08:03.887Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

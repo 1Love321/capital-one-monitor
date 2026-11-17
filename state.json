@@ -4464,19 +4464,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7079414",
-      "title": "New Capital One Exclusive: Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
-      "event": {
-        "id": "7079414",
-        "name": "Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
-        "date": "Nov 20 • 8:00pm",
-        "location": "Lucas Oil Stadium • Indianapolis, IN",
-        "url": "https://entertainment.capitalone.com/events/7079414"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-17T21:27:40.204Z",

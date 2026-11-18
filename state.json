@@ -3400,34 +3400,6 @@
   },
   "previous": [
     {
-      "id": "7661075",
-      "name": "Reston: Spain UNCORKED at Corsica",
-      "date": "Nov 17 • 6:00pm",
-      "location": "CORSICA Wine Bar - Reston • Reston, VA",
-      "url": "https://entertainment.capitalone.com/events/7661075"
-    },
-    {
-      "id": "7661067",
-      "name": "West Hartford: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 17 • 6:00pm",
-      "location": "Barcelona Wine Bar - West Hartford (WeHa) • West Hartford, CT",
-      "url": "https://entertainment.capitalone.com/events/7661067"
-    },
-    {
-      "id": "7661063",
-      "name": "Stamford: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 17 • 6:00pm",
-      "location": "Barcelona Wine Bar - Stamford • Stamford, CT",
-      "url": "https://entertainment.capitalone.com/events/7661063"
-    },
-    {
-      "id": "7661009",
-      "name": "Atlanta - Inman Park: Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 17 • 6:00pm",
-      "location": "Barcelona Wine Bar - Inman Park • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7661009"
-    },
-    {
       "id": "7719533",
       "name": "Late Night with Seth Meyers",
       "date": "Nov 18 • 6:30pm",
@@ -4467,7 +4439,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-17T23:47:39.986Z",
+  "lastSuccess": "2026-11-18T00:08:07.369Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

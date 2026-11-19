@@ -3396,6 +3396,55 @@
       "date": "Feb 26 • 7:00pm",
       "location": "Walrus Rodeo • Miami, FL",
       "url": "https://entertainment.capitalone.com/events/7857698"
+    },
+    "7901886": {
+      "id": "7901886",
+      "name": "Outstanding in the Field - D.A.Ranch Vineyard",
+      "date": "Feb 3 • 2:00pm",
+      "location": "DA Ranch • Cornville, AZ",
+      "url": "https://entertainment.capitalone.com/events/7901886"
+    },
+    "7901894": {
+      "id": "7901894",
+      "name": "Outstanding in the Field - Flying Disc Ranch",
+      "date": "Feb 6 • 2:00pm",
+      "location": "Flying Disc Ranch • Thermal, CA",
+      "url": "https://entertainment.capitalone.com/events/7901894"
+    },
+    "7901944": {
+      "id": "7901944",
+      "name": "Outstanding in the Field - Jupiter Creamery",
+      "date": "Jan 16 • 2:00pm",
+      "location": "Jupiter Creamery • Jupiter, FL",
+      "url": "https://entertainment.capitalone.com/events/7901944"
+    },
+    "7901952": {
+      "id": "7901952",
+      "name": "Outstanding in the Field - Kualoa Ranch",
+      "date": "Jan 9 • 2:00pm",
+      "location": "Kualoa Ranch • Kaneohe, HI",
+      "url": "https://entertainment.capitalone.com/events/7901952"
+    },
+    "7901958": {
+      "id": "7901958",
+      "name": "Outstanding in the Field - Murder Point Oyster Co.",
+      "date": "Jan 30 • 2:00pm",
+      "location": "Murder Point Oyster Company • Bayou La Batre, AL",
+      "url": "https://entertainment.capitalone.com/events/7901958"
+    },
+    "7901966": {
+      "id": "7901966",
+      "name": "Outstanding in the Field - 1 Hotel Hanalei Bay",
+      "date": "Jan 13 • 2:00pm",
+      "location": "1 Hotel Hanalei Bay • Princeville, HI",
+      "url": "https://entertainment.capitalone.com/events/7901966"
+    },
+    "7902032": {
+      "id": "7902032",
+      "name": "Outstanding in the Field - Sweetwater Organic Farm",
+      "date": "Jan 23 • 2:00pm",
+      "location": "Sweetwater Organic Community Farm • Tampa, FL",
+      "url": "https://entertainment.capitalone.com/events/7902032"
     }
   },
   "previous": [
@@ -3967,6 +4016,13 @@
       "url": "https://entertainment.capitalone.com/events/7431493"
     },
     {
+      "id": "7901952",
+      "name": "Outstanding in the Field - Kualoa Ranch",
+      "date": "Jan 9 • 2:00pm",
+      "location": "Kualoa Ranch • Kaneohe, HI",
+      "url": "https://entertainment.capitalone.com/events/7901952"
+    },
+    {
       "id": "7025608",
       "name": "Minnesota Golden Gophers at Michigan Wolverines Mens Basketball",
       "date": "Jan 12 • 6:30pm",
@@ -3974,11 +4030,25 @@
       "url": "https://entertainment.capitalone.com/events/7025608"
     },
     {
+      "id": "7901966",
+      "name": "Outstanding in the Field - 1 Hotel Hanalei Bay",
+      "date": "Jan 13 • 2:00pm",
+      "location": "1 Hotel Hanalei Bay • Princeville, HI",
+      "url": "https://entertainment.capitalone.com/events/7901966"
+    },
+    {
       "id": "7538239",
       "name": "Zamboni Ride at Carolina Hurricanes vs. Washington Capitals",
       "date": "Jan 14 • 7:00pm",
       "location": "Capital One Arena • Washington, DC",
       "url": "https://entertainment.capitalone.com/events/7538239"
+    },
+    {
+      "id": "7901944",
+      "name": "Outstanding in the Field - Jupiter Creamery",
+      "date": "Jan 16 • 2:00pm",
+      "location": "Jupiter Creamery • Jupiter, FL",
+      "url": "https://entertainment.capitalone.com/events/7901944"
     },
     {
       "id": "7826994",
@@ -4044,6 +4114,13 @@
       "url": "https://entertainment.capitalone.com/events/7719569"
     },
     {
+      "id": "7902032",
+      "name": "Outstanding in the Field - Sweetwater Organic Farm",
+      "date": "Jan 23 • 2:00pm",
+      "location": "Sweetwater Organic Community Farm • Tampa, FL",
+      "url": "https://entertainment.capitalone.com/events/7902032"
+    },
+    {
       "id": "7719559",
       "name": "Cardholder Exclusive Private Screening (Jan 25)",
       "date": "Jan 25 • 8:00pm",
@@ -4100,6 +4177,13 @@
       "url": "https://entertainment.capitalone.com/events/7430103"
     },
     {
+      "id": "7901958",
+      "name": "Outstanding in the Field - Murder Point Oyster Co.",
+      "date": "Jan 30 • 2:00pm",
+      "location": "Murder Point Oyster Company • Bayou La Batre, AL",
+      "url": "https://entertainment.capitalone.com/events/7901958"
+    },
+    {
       "id": "7430137",
       "name": "Gracie Abrams: The Look at My Life Tour (PDX N1) (Cardholder Exclusives)",
       "date": "Jan 31 • 8:00pm",
@@ -4112,6 +4196,20 @@
       "date": "Feb 1 • 8:00pm",
       "location": "Moda Center • Portland, OR",
       "url": "https://entertainment.capitalone.com/events/7430141"
+    },
+    {
+      "id": "7901886",
+      "name": "Outstanding in the Field - D.A.Ranch Vineyard",
+      "date": "Feb 3 • 2:00pm",
+      "location": "DA Ranch • Cornville, AZ",
+      "url": "https://entertainment.capitalone.com/events/7901886"
+    },
+    {
+      "id": "7901894",
+      "name": "Outstanding in the Field - Flying Disc Ranch",
+      "date": "Feb 6 • 2:00pm",
+      "location": "Flying Disc Ranch • Thermal, CA",
+      "url": "https://entertainment.capitalone.com/events/7901894"
     },
     {
       "id": "7430175",
@@ -4422,10 +4520,88 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "key": "event-7901952",
+      "title": "New Capital One Exclusive: Outstanding in the Field - Kualoa Ranch",
+      "event": {
+        "id": "7901952",
+        "name": "Outstanding in the Field - Kualoa Ranch",
+        "date": "Jan 9 • 2:00pm",
+        "location": "Kualoa Ranch • Kaneohe, HI",
+        "url": "https://entertainment.capitalone.com/events/7901952"
+      }
+    },
+    {
+      "key": "event-7901966",
+      "title": "New Capital One Exclusive: Outstanding in the Field - 1 Hotel Hanalei Bay",
+      "event": {
+        "id": "7901966",
+        "name": "Outstanding in the Field - 1 Hotel Hanalei Bay",
+        "date": "Jan 13 • 2:00pm",
+        "location": "1 Hotel Hanalei Bay • Princeville, HI",
+        "url": "https://entertainment.capitalone.com/events/7901966"
+      }
+    },
+    {
+      "key": "event-7901944",
+      "title": "New Capital One Exclusive: Outstanding in the Field - Jupiter Creamery",
+      "event": {
+        "id": "7901944",
+        "name": "Outstanding in the Field - Jupiter Creamery",
+        "date": "Jan 16 • 2:00pm",
+        "location": "Jupiter Creamery • Jupiter, FL",
+        "url": "https://entertainment.capitalone.com/events/7901944"
+      }
+    },
+    {
+      "key": "event-7902032",
+      "title": "New Capital One Exclusive: Outstanding in the Field - Sweetwater Organic Farm",
+      "event": {
+        "id": "7902032",
+        "name": "Outstanding in the Field - Sweetwater Organic Farm",
+        "date": "Jan 23 • 2:00pm",
+        "location": "Sweetwater Organic Community Farm • Tampa, FL",
+        "url": "https://entertainment.capitalone.com/events/7902032"
+      }
+    },
+    {
+      "key": "event-7901958",
+      "title": "New Capital One Exclusive: Outstanding in the Field - Murder Point Oyster Co.",
+      "event": {
+        "id": "7901958",
+        "name": "Outstanding in the Field - Murder Point Oyster Co.",
+        "date": "Jan 30 • 2:00pm",
+        "location": "Murder Point Oyster Company • Bayou La Batre, AL",
+        "url": "https://entertainment.capitalone.com/events/7901958"
+      }
+    },
+    {
+      "key": "event-7901886",
+      "title": "New Capital One Exclusive: Outstanding in the Field - D.A.Ranch Vineyard",
+      "event": {
+        "id": "7901886",
+        "name": "Outstanding in the Field - D.A.Ranch Vineyard",
+        "date": "Feb 3 • 2:00pm",
+        "location": "DA Ranch • Cornville, AZ",
+        "url": "https://entertainment.capitalone.com/events/7901886"
+      }
+    },
+    {
+      "key": "event-7901894",
+      "title": "New Capital One Exclusive: Outstanding in the Field - Flying Disc Ranch",
+      "event": {
+        "id": "7901894",
+        "name": "Outstanding in the Field - Flying Disc Ranch",
+        "date": "Feb 6 • 2:00pm",
+        "location": "Flying Disc Ranch • Thermal, CA",
+        "url": "https://entertainment.capitalone.com/events/7901894"
+      }
+    }
+  ],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-19T16:07:40.705Z",
+  "lastSuccess": "2026-11-19T16:27:41.054Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

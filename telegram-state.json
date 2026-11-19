@@ -1262,6 +1262,13 @@
     },
     "418": {
       "done": true
+    },
+    "419": {
+      "parts": [
+        "New Capital One Exclusive: Outstanding in the Field - Kualoa Ranch\n\nOutstanding in the Field - Kualoa Ranch\n\nDate: Jan 9 • 2:00pm\n\nLocation: Kualoa Ranch • Kaneohe, HI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7901952\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/419"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }

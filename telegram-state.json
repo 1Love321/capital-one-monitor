@@ -1274,6 +1274,13 @@
     },
     "422": {
       "done": true
+    },
+    "423": {
+      "parts": [
+        "New Capital One Exclusive: Outstanding in the Field - Murder Point Oyster Co.\n\nOutstanding in the Field - Murder Point Oyster Co.\n\nDate: Jan 30 • 2:00pm\n\nLocation: Murder Point Oyster Company • Bayou La Batre, AL\n\nEvent details\nhttps://entertainment.capitalone.com/events/7901958\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/423"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }

@@ -4520,19 +4520,7 @@
       "url": "https://entertainment.capitalone.com/events/6752227"
     }
   ],
-  "pending": [
-    {
-      "key": "event-7901894",
-      "title": "New Capital One Exclusive: Outstanding in the Field - Flying Disc Ranch",
-      "event": {
-        "id": "7901894",
-        "name": "Outstanding in the Field - Flying Disc Ranch",
-        "date": "Feb 6 • 2:00pm",
-        "location": "Flying Disc Ranch • Thermal, CA",
-        "url": "https://entertainment.capitalone.com/events/7901894"
-      }
-    }
-  ],
+  "pending": [],
   "failures": 0,
   "failureEpisode": null,
   "lastSuccess": "2026-11-19T16:27:41.054Z",

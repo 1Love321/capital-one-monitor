@@ -1265,6 +1265,13 @@
     },
     "419": {
       "done": true
+    },
+    "420": {
+      "parts": [
+        "New Capital One Exclusive: Outstanding in the Field - 1 Hotel Hanalei Bay\n\nOutstanding in the Field - 1 Hotel Hanalei Bay\n\nDate: Jan 13 • 2:00pm\n\nLocation: 1 Hotel Hanalei Bay • Princeville, HI\n\nEvent details\nhttps://entertainment.capitalone.com/events/7901966\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/420"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }

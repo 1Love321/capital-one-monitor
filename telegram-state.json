@@ -1277,6 +1277,13 @@
     },
     "423": {
       "done": true
+    },
+    "424": {
+      "parts": [
+        "New Capital One Exclusive: Outstanding in the Field - D.A.Ranch Vineyard\n\nOutstanding in the Field - D.A.Ranch Vineyard\n\nDate: Feb 3 • 2:00pm\n\nLocation: DA Ranch • Cornville, AZ\n\nEvent details\nhttps://entertainment.capitalone.com/events/7901886\n\nhttps://github.com/nate-debug-ui/capital-one-monitor/issues/424"
+      ],
+      "next": 0,
+      "done": false
     }
   }
 }

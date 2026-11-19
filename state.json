@@ -3400,20 +3400,6 @@
   },
   "previous": [
     {
-      "id": "7719533",
-      "name": "Late Night with Seth Meyers",
-      "date": "Nov 18 • 6:30pm",
-      "location": "NBC Studios - NY • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7719533"
-    },
-    {
-      "id": "7661071",
-      "name": "Atlanta (GA): Spain UNCORKED at Barcelona Wine Bar",
-      "date": "Nov 18 • 7:00pm",
-      "location": "Barcelona Wine Bar - Westside Ironworks (WIW) • Atlanta, GA",
-      "url": "https://entertainment.capitalone.com/events/7661071"
-    },
-    {
       "id": "7792622",
       "name": "Late Night with Seth Meyers",
       "date": "Nov 19 • 4:30pm",
@@ -4439,7 +4425,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-18T23:47:39.529Z",
+  "lastSuccess": "2026-11-19T00:07:57.365Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

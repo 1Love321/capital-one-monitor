@@ -3449,13 +3449,6 @@
   },
   "previous": [
     {
-      "id": "7792622",
-      "name": "Late Night with Seth Meyers",
-      "date": "Nov 19 • 4:30pm",
-      "location": "NBC Studios 30 Rock • New York, NY",
-      "url": "https://entertainment.capitalone.com/events/7792622"
-    },
-    {
       "id": "7079414",
       "name": "Kentucky Wildcats vs Indiana Hoosiers Mens Basketball",
       "date": "Nov 20 • 8:00pm",
@@ -4523,7 +4516,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-19T23:47:41.074Z",
+  "lastSuccess": "2026-11-20T00:07:51.450Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"

@@ -3449,20 +3449,6 @@
   },
   "previous": [
     {
-      "id": "7826952",
-      "name": "Magic vs. Wizards - Cardholder Suite",
-      "date": "Nov 22 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7826952"
-    },
-    {
-      "id": "7433044",
-      "name": "Orlando Magic at Washington Wizards",
-      "date": "Nov 22 • 7:00pm",
-      "location": "Capital One Arena • Washington, DC",
-      "url": "https://entertainment.capitalone.com/events/7433044"
-    },
-    {
       "id": "7719535",
       "name": "Tonight Show with Jimmy Fallon",
       "date": "Nov 23 • 5:00pm",
@@ -4509,7 +4495,7 @@
   "pending": [],
   "failures": 0,
   "failureEpisode": null,
-  "lastSuccess": "2026-11-22T23:47:53.262Z",
+  "lastSuccess": "2026-11-23T00:07:43.758Z",
   "lastError": {
     "at": "2026-10-11T19:07:20.344Z",
     "message": "locator.waitFor: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator('a[href^=\"/events/\"]').first() to be visible\n"
